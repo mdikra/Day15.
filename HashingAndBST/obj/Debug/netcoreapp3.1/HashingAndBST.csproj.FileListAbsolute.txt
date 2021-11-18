@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\bin\Debug\netcoreapp3.1\HashingAndBST.exe
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\bin\Debug\netcoreapp3.1\HashingAndBST.deps.json
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\bin\Debug\netcoreapp3.1\HashingAndBST.runtimeconfig.json
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\bin\Debug\netcoreapp3.1\HashingAndBST.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\bin\Debug\netcoreapp3.1\HashingAndBST.dll
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\bin\Debug\netcoreapp3.1\HashingAndBST.pdb
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\obj\Debug\netcoreapp3.1\HashingAndBST.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\obj\Debug\netcoreapp3.1\HashingAndBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\obj\Debug\netcoreapp3.1\HashingAndBST.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\obj\Debug\netcoreapp3.1\HashingAndBST.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\obj\Debug\netcoreapp3.1\HashingAndBST.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\obj\Debug\netcoreapp3.1\HashingAndBST.dll
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\obj\Debug\netcoreapp3.1\HashingAndBST.pdb
+C:\Users\ADMIN\source\repos\HashingAndBST\HashingAndBST\obj\Debug\netcoreapp3.1\HashingAndBST.genruntimeconfig.cache
